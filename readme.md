@@ -50,5 +50,5 @@ Users should text your number from Nexmo with messages that look like: A 1 or C 
 
 ## License
 
-Copyright (c) 2016 Jake Price
+Copyright (c) 2016 Jake Price  
 Licensed under the MIT license.
